@@ -109,25 +109,15 @@
 # print('are you a member?')
 # member= input("yes or no:")
 # if member== 'yes' and amount >1000:
-#     discount= amount * 0.2
-#     total= amount-discount
-#     print(f'your total amount after discount is: {total}')
+#      discount= amount * 0.2
+#      total= amount-discount
+#      print(f'your total amount after discount is: {total}')
 # elif member== 'no' and amount >1000:
-#     discount= amount*0.1
-#     total= amount-discount
-#     print(f'your total amount after discount is: {total}')
+#      discount= amount*0.1
+#      total= amount-discount
+#      print(f'your total amount after discount is: {total}')
 # else:
 #     print(f'yous total amount is: {amount}')
-
-
-
-
-
-
-num1=int(input('enter first number:'))
-num2=int(input('enter second number:'))
-num3=int(input('enter third number:'))
-if 
 
 
 
